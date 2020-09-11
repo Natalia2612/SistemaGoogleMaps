@@ -1,0 +1,19 @@
+[{"id_vehiculo":"1",
+        "clientes":[
+          {"latitud":"-46.459297","longitud":"-67.542184","nomDir":"Camilo Asad Nasif 649"},
+          {"latitud":"-46.43588","longitud":"-67.519196","nomDir":"Juan Alvarez 199"}]},
+   {"id_vehiculo":"2",
+        "clientes":[
+          {"latitud":"-46.440727","longitud":"-67.513041","nomDir":"Tamarisco 500"},
+          {"latitud":"-46.440502","longitud":"-67.520412","nomDir":"Av. Guemes 200"}]},
+   {"id_vehiculo":"3",
+        "clientes":[
+          {"latitud":"-46.448081","longitud":"-67.522131","nomDir":"San Jose Obrero 550"}]},
+   {"id_vehiculo":"4",
+        "clientes":[
+          {"latitud":"-46.44052681669955","longitud":"-67.52039554999999","nomDir":"Av. Güemes 252"},
+          {"latitud":"-46.44913356670461","longitud":"-67.52653705","nomDir":"Av. Tierra del Fuego 77"},
+          {"latitud":"-46.440814416699766","longitud":"-67.51374524999994","nomDir":"Mexico 990"},
+          {"latitud":"-46.447401566703604","longitud":"-67.51955744999998","nomDir":"Maipu 139"},
+          {"latitud":"-46.44771861670379","longitud":"-67.52260469999999","nomDir":"Lavalle 877"}]}
+]
