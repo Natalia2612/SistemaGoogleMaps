@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    #footer{
+        background-color:#033b16;
+        position: fixed;
+        bottom: 0px;
+        left: 0px;
+        right: 0px;
+        height: 20px;
+        padding: 10px 10px;
+        text-align: center;
+        color: #FFFFFF;
+        font-size: 10px;
+    }
+}
+@import 'login';
+@import 'menu';
+@import 'styleContent';

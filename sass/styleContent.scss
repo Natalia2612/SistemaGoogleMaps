@@ -1,0 +1,69 @@
+body {
+    //background:#EBEDEF;
+   
+    .tablaC{
+        width:50%;
+        height: 60px;
+        border:thin solid #033b16;
+        border-radius:1px 1px 1px 1px;
+        margin:0 auto;
+        background:#EBEDEF;
+    }
+    #tdHeader{
+        background:#033b16;
+        text-align:left;
+        padding-left:10px;
+        font-size: 12px;
+        font-family: times new roman;
+        text-shadow:1px 1px 1px #000;
+        border-radius:1px 1px 1px 1px;
+        color: #FAFAFA;
+    }
+    .frmC label{
+        width:120px;
+        float: right;
+        text-align:right;
+        font-size: 13px;
+        font-family: Arial;
+        text-shadow:1px 0px 1px #566573;
+    }
+    .frmC input{
+        width: 200px;
+        border: thin solid #033b16;
+        font-family: Arial;
+        color: #273746;
+        font-size: 13px;
+        margin-top: 5px;
+        margin-bottom: 4px;
+    }
+    .frmC input[type="submit"]{
+        width: 160px;
+        background: #000000;
+        color: #FAFAFA;
+        font-family: Times New Roman;
+        font-size: 16px;
+        border: 1px solid #BDBDBD;
+        //margin: 4px 0px 5px 4px;
+        border-radius:5px;
+        //margin: 4px 0px 5px 182px;
+        
+    }
+    .frmC .btnN{
+        margin-left: 250px;
+    }
+    .frmC .btnM{
+        margin: 4px 0px 5px 130px;
+    }
+    .frmC .btnE{
+        margin: 4px 0px 5px 0px;
+    }
+    .frmC .btn{
+        width: 160px;
+        margin: 5px 80px 5px 0px;
+    }
+    select {
+         border:1px solid #000000;
+         width:65px;
+         margin: 5px 0px 5px 0px;
+    }
+}
